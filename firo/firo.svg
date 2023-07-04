@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="955.21759"
+   height="306.49664"
+   viewBox="0 0 252.73465 81.093902"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="firo.svg"
+   inkscape:export-filename="/home/charodziej/Documents/pw/skar/sirius_misc/webpage_design/firo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1000mm"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.0127459"
+     inkscape:cx="280.42572"
+     inkscape:cy="39.990287"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     style="display:none"
+     transform="translate(1.5616432,-92.016505)">
+    <text
+       xml:space="preserve"
+       style="font-size:77.4089px;line-height:1.25;font-family:Forte;-inkscape-font-specification:Forte;display:inline;stroke-width:0.80645;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1.1690776e-05"
+       y="154.97247"
+       id="text9824"
+       inkscape:label="text9824"><tspan
+         sodipodi:role="line"
+         id="tspan9822"
+         style="font-size:77.4089px;stroke-width:0.80645;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1.1690776e-05"
+         y="154.97247">FIRO2</tspan></text>
+  </g>
+  <g
+     id="layer3"
+     inkscape:label="Logo"
+     transform="translate(1.5616432,-92.016505)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.09483,169.36093 19.45806,-44.58994"
+       id="path77964"
+       sodipodi:nodetypes="cc"
+       inkscape:label="2_dash" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.60753,111.96316 c 3.28588,-10.01234 12.42249,-16.122278 22.46639,-15.980215 11.08392,0.156775 19.86062,7.381835 19.70146,19.276895 -0.14134,10.56223 -8.00996,19.35223 -15.45488,26.76074 l -27.91847,27.78191 45.44677,-0.0123"
+       id="path55501"
+       sodipodi:nodetypes="cssscc"
+       inkscape:label="2_main" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 132.32901,107.18185 24.89723,62.68592"
+       id="path94643"
+       sodipodi:nodetypes="cc"
+       inkscape:label="O_dash" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.10901,94.66234 c 20.24205,0 34.25079,18.91685 34.25079,37.96449 0,19.04764 -15.00369,37.4113 -34.52485,37.26016 -19.52116,-0.15114 -34.25939,-18.14594 -34.36244,-37.5519 -0.10305,-19.40596 14.39445,-37.67275 34.6365,-37.67275 z"
+       id="path92324"
+       sodipodi:nodetypes="zzzzz"
+       inkscape:label="O_round" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.840573,139.55086 19.974107,30.91371"
+       id="path90080"
+       sodipodi:nodetypes="cc"
+       inkscape:label="R_arm" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.716573,95.216196 30.186849,0.0027 c 10.778278,9.64e-4 20.203918,9.947004 20.203918,21.990834 0,12.04383 -8.18684,22.19651 -19.751596,22.19851 l -17.336671,0.003"
+       id="path88025"
+       sodipodi:nodetypes="csssc"
+       inkscape:label="R_round" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 96.850134,95.415614 64.71525,170.30985 64.716573,95.203296"
+       id="path89024"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="R_stem" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 56.380268,94.707976 V 170.13152"
+       id="path92222"
+       inkscape:label="I" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.077303,95.25574 -47.9931113,-0.0078 0.00186,26.9031 32.9904733,-0.004 -32.9860695,19.77661 -0.00214,28.49816"
+       id="path24883"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="F" />
+  </g>
+</svg>
